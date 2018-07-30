@@ -1,0 +1,10 @@
+useDynLib(smfishHmrf)
+
+export(smfishHmrf.hmrfem.multi, smfishHmrf.hmrfem, findDampFactor)
+
+importFrom("lattice", densityplot)
+importFrom("misc3d", slices3d)
+import(oro.nifti)
+importFrom("pracma", eps)
+import(mvtnorm)
+import(Matrix)

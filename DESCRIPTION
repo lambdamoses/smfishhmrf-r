@@ -1,0 +1,14 @@
+Package: smfishHmrf
+Title: HMRF for smFISH data
+Version: 0.1
+Author: Qian Zhu and GC Yuan
+Description: Discovery of spatial patterns with Hidden Markov random field 
+Maintainer: Qian Zhu <zqian@jimmy.harvard.edu>
+Depends: R (>= 2.14.0), lattice (>= 0.18-8), misc3d (>= 0.8-1),
+        oro.nifti(>= 0.4.0), pracma(>= 1.9.0), Matrix(>= 1.2),
+        mvtnorm(>= 0.7-2)
+License: GPL
+Packaged: 2017-12-15 01:56:48 UTC; qzhu
+NeedsCompilation: yes
+Repository: CRAN
+Date/Publication: 2017-12-15 07:45:02
