@@ -5,7 +5,6 @@ cec269818c7039e91cc9b0aedcbb34f2  ChangeLog
 6590f80df593d449f1694874103b94cd  R/update.R
 d75af4f26813f6cb686b25d5a36ebcb1  R/common.R
 6c3ed92f608e2168be61ad3ef53df8c8  R/smfishHmrf.hmrfem.R
-eb4d47b191cabe294cff8353033361c3  src/updateIndices_omp.c
 95e3011e37d9dde0d75f3a3819b2acd3  src/Makevars
 50a08ba0f1b0a16021d30369e60d255a  src/updateIndicesHMRFEM.c
 0c24e1512a5881f9def6a2df9bf92ffe  man/smfishHmrf-package.Rd
