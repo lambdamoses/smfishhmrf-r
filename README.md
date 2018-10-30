@@ -46,9 +46,11 @@ To illustrate the method, we have tested it on
 mouse brain visual cortex seqFISH imaged cells.
 
 
-## Installation
+## Installation and Usage
 
-The package contains the core of HMRF implementation which is written in R and C++. For interfacing with smfishHmrf and regular usage, we recommend using the Python package that we wrote ([smfishHmrf-py](https://bitbucket.org/qzhudfci/smfishhmrf-py)).
+The package contains the core of HMRF implementation which is written in R and C++. 
 
-See installation instructions at http://spatial.rc.fas.harvard.edu/install.html.
+**For interfacing with smfishHmrf and regular usage of the tool, we recommend using the Python package that we wrote ([smfishHmrf-py](https://bitbucket.org/qzhudfci/smfishhmrf-py)).**
+
+See installation and usage instructions at http://spatial.rc.fas.harvard.edu/install.html.
 
