@@ -54,3 +54,4 @@ The package contains the core of HMRF implementation which is written in R and C
 
 See installation and usage instructions at http://spatial.rc.fas.harvard.edu/install.html.
 
+In this fork, I'm adding R documentations and plotting functions to create a direct R interface. I'm thinking about getting this to Bioconductor with permission of the original author.
